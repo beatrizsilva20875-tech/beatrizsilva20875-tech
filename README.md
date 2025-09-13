@@ -55,7 +55,7 @@ Se você está em busca de alguém com **vontade de aprender, disciplina e paix�
 
 📧 **E-mail:** beatrizsilva20875@gmail.com 
 📍 **Localização:** Brasil – disponível para trabalho remoto ou presencial  
-🐱 **GitHub:** [github.com/seu-usuario](https://github.com/beatrizsilva20875-tech) *(substituir pelo seu usuário)*
+🐱 **GitHub:** (https://github.com/beatrizsilva20875-tech) *(substituir pelo seu usuário)*
 
 ---
 
