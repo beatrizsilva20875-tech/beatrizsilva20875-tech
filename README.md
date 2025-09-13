@@ -53,10 +53,9 @@ Sou dedicada, aprendo rápido e estou sempre disposta a crescer. Acredito que co
 
 Se você está em busca de alguém com **vontade de aprender, disciplina e paixão por tecnologia**, adoraria conversar!
 
-📧 **E-mail:** seuemail@email.com  
+📧 **E-mail:** beatrizsilva20875@gmail.com 
 📍 **Localização:** Brasil – disponível para trabalho remoto ou presencial  
-🌐 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil) *(substituir pelo seu perfil)*  
-🐱 **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario) *(substituir pelo seu usuário)*
+🐱 **GitHub:** [github.com/seu-usuario](https://github.com/beatrizsilva20875-tech) *(substituir pelo seu usuário)*
 
 ---
 
